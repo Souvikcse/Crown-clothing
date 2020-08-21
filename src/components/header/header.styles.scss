@@ -1,0 +1,16 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+
+    .options{
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+
+        .option{
+            margin: 1px 10px;
+            font-size: 1.25em;
+        }
+    }
+}
